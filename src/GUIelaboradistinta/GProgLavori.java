@@ -46,11 +46,6 @@ public class GProgLavori extends JPanel {
 
 
 	private static final long serialVersionUID = 1L;
-	private static GPanel1 panel1;
-	private static GPanel2 panel2;
-	private static GPanel3 panel3;
-	private static GPanel4 panel4;
-	private static GPanel5 panel5;
 	private static JTabbedPane tabbedPane;
 	private static JButton b;
 	private static JScrollPane listbox;
