@@ -1,4 +1,5 @@
 *.class
+Coedil.cfg.xml
 
 # Package Files #
 *.jar
