@@ -2,6 +2,6 @@
 Coedil.cfg.xml
 
 # Package Files #
-*.jar
+
 *.war
 *.ear
